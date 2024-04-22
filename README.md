@@ -1,0 +1,2 @@
+# Stone-Paper-Scissor_Game
+this repo is to showcase my work(building &amp; learnings) in JavaScript
